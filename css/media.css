@@ -1,0 +1,467 @@
+@media (max-width: 1201px){
+    .header_title {
+        font-size: 34px;
+    }
+    .button {
+        padding: 20px 26px;
+        font-size: 19px;
+    }
+    .story_content_title {
+        font-size: 31px;
+        line-height: 44px;
+    }
+    .story_content_text {
+        font-size: 12px;
+        line-height: 15px;
+    }
+    .purpose_content {
+        width: 38%;
+        padding: 25px;
+        border-radius: 30px;
+
+    }
+    .purpose_content_text {
+        font-size: 12px;
+        line-height: 15px;
+    }
+    .help_content_text {
+        font-size: 12px;
+        line-height: 20px;
+    }
+    .bank_content {
+        width: 100%;
+        padding: 12px;
+        border-radius: 33px;
+    }
+    .bank_content_text {
+        font-size: 15px;
+        line-height: 19px;
+    }
+}
+@media (max-width: 1025px){
+    .header {
+        height: 130px;
+    }
+    .header_title {
+        font-size: 27px;
+    }
+    .social__icon {
+        width: 53px;
+        height: auto;
+    }
+    .button {
+        padding: 17px 20px;
+        font-size: 14px;
+    }
+    .story_content {
+        padding: 21px 16px;
+    }
+    .story_content_title {
+        font-size: 24px;
+        line-height: 34px;
+    }
+    .story_content_text {
+        font-size: 11px;
+        line-height: 14px;
+    }
+    .story_img {
+        width: 30%;
+    }
+    .purpose_header {
+        margin-top: 26px;
+        margin-bottom: 26px;
+    }
+    .purpose_items {
+        padding: 20px 60px;
+    }
+    .purpose_content {
+        width: 44%;
+        padding: 19px;
+        border-radius: 30px;
+    }
+    .help_content {
+        width: 44%;
+        padding: 21px;
+    }
+    .bank_content {
+        width: 100%;
+        padding: 13px;
+        border-radius: 33px;
+    }
+    .memory_title {
+        padding: 0;
+    }
+    .footer {
+        padding: 50px 0;
+    }
+}
+@media (max-width: 896px){
+    .header_title {
+        font-size: 23px;
+    }
+    .social__icon {
+        width: 46px;
+        height: auto;
+    }
+    .more_title {
+        font-size: 31px;
+    }
+    .more__button {
+        width: 26%;
+    }
+    .story_content {
+        width: 100%;
+    }
+    .story_content {
+        padding: 30px 27px;
+    }
+    .story_content_title {
+        font-size: 42px;
+        line-height: 54px;
+    }
+    .story_content_text {
+        font-size: 16px;
+        line-height: 25px;
+    }
+    .story_img {
+        width: 56%;
+        margin-top: 39px;
+    }
+    .purpose_items {
+        justify-content: center;
+    }
+    .purpose_img {
+        margin-top: 20px;
+        width: 83%;
+    }
+    .purpose_content {
+        width: 83%;
+        margin-top: 5px;
+        padding: 10px 41px;
+        border-radius: 50px;
+    }
+    .purpose_content_text {
+        font-size: 16px;
+        line-height: 25px;
+    }
+    .purpose_header {
+        margin: 0;
+        margin-top: 20px;
+        padding: 7px 0;
+    }
+    .help_items {
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+    .help_content {
+        width: 83%;
+        padding: 45px;
+    }
+    .help_content_text {
+        font-size: 16px;
+        line-height: 25px;
+    }
+    .help_img {
+        width: 83%;
+        margin-top: 39px;
+    }
+    .bank {
+        flex-wrap: wrap-reverse;
+        justify-content: center;
+    }
+    .bank_img {
+        width: 83%;
+    }
+    .bank_content {
+        width: 100%;
+        padding: 45px;
+        border-radius: 39px;
+    }
+
+}
+@media (max-width: 821px){
+    .button {
+        padding: 17px 12px;
+        font-size: 13px;
+    }
+    .story_content_title {
+        font-size: 37px;
+        line-height: 49px;
+    }
+    .story_content_text {
+        font-size: 14px;
+        line-height: 23px;
+    }
+    .story_img {
+        width: 40%;
+    }
+    .purpose_header {
+        padding: 22px 0;
+        font-size: 41px;
+        line-height: 53px;
+    }
+    .purpose_items {
+        padding: 20px;
+    }
+    .help {
+        padding: 20px;
+    }
+    .bank {
+        padding: 20px;
+    }
+    .memory_title {
+        font-size: 41px;
+        margin: 20px 0;
+    }
+    
+    .footer {
+        padding: 20px 0;
+    }
+    .footer_title{
+        font-size: 41px;
+        margin: 20px 0;
+    }
+    .footer_img{
+        width: 36%;
+        display: block;
+        margin: 0 auto;
+        margin-top: 20px;
+    }
+    .footer_img img{
+        width: 100%;
+        object-fit: cover;
+    }
+}
+@media (max-width: 769px){
+    .header_devider {
+        width: 48%;
+    }
+    .story_content_title {
+        font-size: 34px;
+    }
+    .story_content_text {
+        font-size: 13px;
+    }
+    .purpose_content {
+        padding: 23px;
+    }
+    .bank_content {
+        width: 100%;
+        padding: 47px;
+        border-radius: 41px;
+    }
+    .carousel__inner{
+        width: 500px;
+    }
+    
+    .slider__img{
+        width: 500px;
+        height: 500px;
+    }
+
+}
+@media (max-width: 482px){
+    .header {
+        height: 207px;
+    }
+    .header_devider {
+        width: 100%;
+        margin-top: 11px;
+    }
+    .header_title {
+        font-size: 27px;
+    }
+    .more{
+        padding: 49px 31px;
+    }
+    .more_title {
+        font-size: 20px;
+    }
+    .more__button {
+        width: 39%;
+    }
+    .story{
+        padding: 13px;
+    }
+    .story_content_title {
+        font-size: 22px;
+        line-height: 33px;
+    }
+    .story_content_text {
+        line-height: 20px;
+    }
+    .story_img {
+        width: 42%;
+        margin-top: 25px;
+    }
+    .purpose_items {
+        padding: 17px;
+    }
+    .purpose_header {
+        padding: 16px 0;
+        font-size: 27px;
+        line-height: 46px;
+    }
+    .purpose_img {
+        width: 100%;
+    }
+    .purpose_content {
+        width: 100%;
+        margin-top: 0;
+        border-radius: 35px;
+    }
+
+    .purpose_content_text {
+        font-size: 13px;
+        line-height: 17px;
+    }
+    .help {
+        padding: 13px;
+    }
+    .help_content {
+        width: 100%;
+        padding: 29px;
+    }
+    .help_content_text {
+        font-size: 13px;
+        line-height: 17px;
+    }
+    .bank {
+        padding: 13px;
+    }
+    .bank_content {
+        width: 100%;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+        padding: 23px;
+        border-radius: 38px;
+    }
+    .memory {
+        padding: 13px;
+    }
+    .memory_title {
+        font-size: 33px;
+        margin: 14px 0;
+    }
+    .memory_imgone {
+        width: 100%;
+    }
+    .memory_imgtwo {
+        width: 100%;
+        margin-top: 15px;
+    }
+    .memory_imgthree {
+        width: 100%;
+        margin-top: 15px;
+    }
+    .carousel__inner{
+        width: 450px;
+    }
+    .slider__img{
+        width: 450px;
+        height: 450px;
+    }
+
+}
+@media (max-width: 415px){
+    .header_title {
+        font-size: 24px;
+    }
+    .story_content_title {
+        font-size: 18px;
+        line-height: 30px;
+    }
+    .story_img {
+        width: 100%;
+        margin-top: 18px;
+    }
+    .more {
+        padding: 13px 14px;
+        height: auto;
+    }
+    .more_title {
+        font-size: 15px;
+    }
+    .more_link{
+        font-size: 13px;
+    }
+    .purpose_items {
+        padding: 10px;
+    }
+    .purpose_content {
+        padding: 11px;
+    }
+    .help_items {
+        padding: 18px
+    }
+
+    .footer_title {
+        font-size: 34px;
+        margin: 15px 0;
+    }
+    .carousel__inner{
+        width: 380px;
+    }
+    .slider__img{
+        width: 380px;
+        height: 380px;
+    }
+}
+@media (max-width: 377px){
+    .header_logo {
+        width: 77%;
+    }
+    .header_title {
+        font-size: 21px;
+    }
+    .social__icon {
+        width: 41px;
+        height: auto;
+    }
+    .story_img {
+        width: 48%;
+    }
+    .story_content_title {
+        font-size: 16px;
+        line-height: 26px;
+    }
+    .purpose_header {
+        font-size: 23px;
+    }
+    .help_content {
+        padding: 9px;
+    }
+    .memory_title {
+        font-size: 25px;
+        margin: 5px 0;
+    }
+    @media (max-width: 361px){
+        .header_title {
+            font-size: 19px;
+        }
+        .button {
+            padding: 14px 8px;
+            font-size: 12px;
+        }
+        .story_content_title {
+            font-size: 15px;
+            line-height: 26px;
+        }
+        .bank_content_text {
+            font-size: 13px;
+            line-height: 18px;
+        }
+        .carousel__inner{
+            width: 250px;
+             
+        }
+        
+        .slider__img{
+            width: 250px;
+            height: 250px;
+        }
+        
+    }
+}
